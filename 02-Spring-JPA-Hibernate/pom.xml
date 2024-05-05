@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hibernate</groupId>
-	<artifactId>implementjpaandhibernate</artifactId>
+	<artifactId>implementhibernate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>implementhibernateapplication</name>
 	<description>Demo project for Spring Boot</description>

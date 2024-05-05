@@ -1,4 +1,4 @@
-package com.hibernate.implementjpaandhibernate.entity;
+package com.hibernate.implementhibernate.entity;
 
 import jakarta.persistence.*;
 
@@ -8,7 +8,7 @@ public class Student {
 
     //define fields
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)//means auto increment
     @Column(name = "id")
     private int id;
 
