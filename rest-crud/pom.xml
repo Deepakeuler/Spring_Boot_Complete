@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.deepakeuler</groupId>
-	<artifactId>rest-crud</artifactId>
+	<artifactId>03-rest-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest-crud</name>
 	<description>Demo project for Spring Boot Rest CRUD Operations</description>
