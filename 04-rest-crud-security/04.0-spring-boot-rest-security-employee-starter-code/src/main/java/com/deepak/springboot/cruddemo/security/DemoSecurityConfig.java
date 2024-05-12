@@ -14,6 +14,9 @@ import javax.sql.DataSource;
 @Configuration
 public class DemoSecurityConfig {
 
+    //i have added sql scripts in this particular project in a folder which is to add user
+    //directly to db and use different type of encryptions
+
     //add support for jdbc and no more hard coded users
 
     @Bean
