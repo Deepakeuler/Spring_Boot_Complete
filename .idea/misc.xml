@@ -5,6 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/05-spring-boot-spring-mvc/05.0-thymeleaf-demo-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/04-rest-crud-security/04.0-spring-boot-rest-security-employee-starter-code/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-rest-crud/03.0-spring-boot-rest-crud-overview/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-rest-crud/03.2-spring-boot-rest-crud-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-rest-crud/03.3-spring-boot-rest-crud-employee-with-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-rest-crud/03.4-spring-boot-rest-crud-employee-with-spring-data-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Spring-Core/pom.xml" />
+        <option value="$PROJECT_DIR$/02-Spring-JPA-Hibernate/pom.xml" />
       </list>
     </option>
   </component>

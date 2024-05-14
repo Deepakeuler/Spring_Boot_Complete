@@ -10,12 +10,19 @@
     <file url="file://$PROJECT_DIR$/01-Spring-Core/07-bean-scopes/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-Spring-Core/08-bean-lifecycle-methods/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-Spring-Core/09-java-config-bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-Spring-Core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/05-command-line-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-Spring-JPA-Hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-rest-crud/03.0-spring-boot-rest-crud-overview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-rest-crud/03.2-spring-boot-rest-crud-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-rest-crud/03.3-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-rest-crud/03.4-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-rest-crud-security/04.0-spring-boot-rest-security-employee-starter-code/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-spring-boot-spring-mvc/05.0-thymeleaf-demo-helloworld/src/main/java" charset="UTF-8" />
   </component>
 </project>
