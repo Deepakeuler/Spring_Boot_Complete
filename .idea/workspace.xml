@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe7807b-3560-4ae6-92ca-04e49eb10d09" name="Changes" comment="">
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/01-Spring-core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Spring-core/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/mvnw" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Spring-core/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/mvnw.cmd" afterDir="false" />
@@ -58,7 +56,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-<<<<<<< HEAD
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -72,7 +69,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.SpringbootdoneApplication.executor&quot;: &quot;Run&quot;,
@@ -85,7 +81,6 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SpringbootdoneApplication.executor": "Run",
