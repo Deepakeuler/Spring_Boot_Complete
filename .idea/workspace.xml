@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe7807b-3560-4ae6-92ca-04e49eb10d09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/Config/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/Config/SportConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/SpringbootdoneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/SpringbootdoneApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/common/BaseBallCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/common/BaseBallCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/common/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/common/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/common/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/common/CricketCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/common/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/common/SwimCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/common/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/common/TennisCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/java/com/example/euler/springboot/springbootdone/rest/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/java/com/example/euler/springboot/springbootdone/rest/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/src/test/java/com/example/euler/springboot/springbootdone/SpringbootdoneApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/src/test/java/com/example/euler/springboot/springbootdone/SpringbootdoneApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/springbootdone-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/springbootdone-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/springbootdone-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/springbootdone-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/surefire-reports/TEST-com.example.euler.springboot.springbootdone.SpringbootdoneApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/surefire-reports/TEST-com.example.euler.springboot.springbootdone.SpringbootdoneApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/surefire-reports/com.example.euler.springboot.springbootdone.SpringbootdoneApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/surefire-reports/com.example.euler.springboot.springbootdone.SpringbootdoneApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Spring-core/target/test-classes/com/example/euler/springboot/springbootdone/SpringbootdoneApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Spring-Core/target/test-classes/com/example/euler/springboot/springbootdone/SpringbootdoneApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/src/main/java/com/hibernate/implementjpaandhibernate/ImplementjpaandhibernateApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/src/main/java/com/hibernate/implementjpaandhibernate/ImplementjpaandhibernateApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implementjpaandhibernate/src/test/java/com/hibernate/implementjpaandhibernate/ImplementjpaandhibernateApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-Spring-JPA-Hibernate/src/test/java/com/hibernate/implementjpaandhibernate/ImplementjpaandhibernateApplicationTests.java" afterDir="false" />
->>>>>>> main
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,31 +21,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
-=======
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
->>>>>>> main
   <component name="ProjectId" id="2g2r5flPwW5khJVOuDWsfgR4EMo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.SpringbootdoneApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.springbootdone [install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/euler/SpringBootComplete&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
-  }
-}</component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SpringbootdoneApplication.executor": "Run",
@@ -89,11 +44,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/euler/SpringBootComplete",
+    "last_opened_file_path": "/Users/euler/Downloads/Spring_Boot_Complete",
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
->>>>>>> main
   <component name="RunManager">
     <configuration name="SpringbootdoneApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.euler.springboot.springbootdone.SpringbootdoneApplication" />
